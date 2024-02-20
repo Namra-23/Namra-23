@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I am working on a web development project using HTML, CSS, javaScript and python + Django. The project is a website that showcases a portfolio of my work and skills as a web developer.<br>I want to help others on GitHub by contributing to open-source projects and sharing my knowledge and expertise with the community. As a developer, I understand the value of collaboration and the benefits of working together to solve problems and improve code quality.<br>Overall, I want to make a positive impact on the GitHub community and contribute to the growth of the open-source movement.<br>
+Currently, I am working on a web development project using MEAN stack. The project is a website that showcases a portfolio of my work and skills as a web developer.<br>I want to help others on GitHub by contributing to open-source projects and sharing my knowledge and expertise with the community. As a developer, I understand the value of collaboration and the benefits of working together to solve problems and improve code quality.<br>Overall, I want to make a positive impact on the GitHub community and contribute to the growth of the open-source movement.<br>
 
 
 ## 🌐 Socials:
